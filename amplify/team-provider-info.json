@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-codejade2-dev-210419-authRole",
+      "UnauthRoleArn": "arn:aws:iam::715584381811:role/amplify-codejade2-dev-210419-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::715584381811:role/amplify-codejade2-dev-210419-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-codejade2-dev-210419-deployment",
+      "UnauthRoleName": "amplify-codejade2-dev-210419-unauthRole",
+      "StackName": "amplify-codejade2-dev-210419",
+      "StackId": "arn:aws:cloudformation:us-west-2:715584381811:stack/amplify-codejade2-dev-210419/03113fd0-306e-11eb-969d-06765f04f1fc",
+      "AmplifyAppId": "d2kcfs763u2rma"
+    },
+    "categories": {
+      "auth": {
+        "codejade2168933fc": {}
+      }
+    }
+  }
+}
